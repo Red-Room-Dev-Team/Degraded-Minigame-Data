@@ -14,3 +14,5 @@ jobs:
         ftp-server: ftp://54.39.68.61:21/degraded_minigame/datapacks
         ftp-username: redstonecharger@gmail.com.46593
         ftp-password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: ./
+        
